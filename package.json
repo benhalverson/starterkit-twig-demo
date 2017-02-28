@@ -1,0 +1,20 @@
+{
+  "name": "starterkit-twig-demo",
+  "version": "1.0.0",
+  "description": "![license](https://img.shields.io/github/license/pattern-lab/starterkit-twig-demo.svg) [![Packagist](https://img.shields.io/packagist/v/pattern-lab/starterkit-twig-demo.svg)](https://packagist.org/packages/pattern-lab/starterkit-twig-demo) [![Gitter](https://img.shields.io/gitter/room/pattern-lab/php.svg)](https://gitter.im/pattern-lab/php)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benhalverson/starterkit-twig-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benhalverson/starterkit-twig-demo/issues"
+  },
+  "homepage": "https://github.com/benhalverson/starterkit-twig-demo#readme"
+}
